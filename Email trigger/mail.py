@@ -7,8 +7,8 @@ print("Check Whether Less security apps are allowed for user Gmail account. If n
 
 #getting user mail-id and password
 #password is taken using getpass for security purpose so that it will not visible on command line 
-gmail_user = "sparshtalksjce@gmail.com"
-gmail_pwd = "sparshtalk17"
+gmail_user = ""
+gmail_pwd = ""
 
 #getting subject input from sender
 subject = input("Enter Subject: ")
